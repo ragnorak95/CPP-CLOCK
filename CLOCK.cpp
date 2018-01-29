@@ -1,3 +1,16 @@
+/*
+ * Please help me with this code by describing what each part does by using comments // 'comments'
+ */
+
+// this is a single line comment
+
+/* 
+ * This is a
+ * Multi-line
+ * Comment
+ */ 
+
+
 #include <iostream>
 #include <ctime>
 #include <windows.h>
